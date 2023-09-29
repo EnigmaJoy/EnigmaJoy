@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnigmaJoy a curious soul with a curious mind!
 - 👀 I’m interested in frontend dev with a mix of UI/UX design 
 - 🌱 I’m currently learning Python, Lavarel, LateX
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new some beginner projects :)
 - 📫 We can get in touch by mail
 - This is a quote I'd love to share with you that I really feel:
 - We have seen that programming is an art,
